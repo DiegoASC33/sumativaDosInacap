@@ -9,5 +9,4 @@ public class SumativaDosInacapApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SumativaDosInacapApplication.class, args);
 	}
-
 }
